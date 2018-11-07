@@ -139,7 +139,7 @@ rm -rf zips
 echo "Downloading Passwords..."
 cd $vpndir
 
-wget wget https://freevpn.me/FreeVPN.me-OpenVPN-Bundle.zip &> /dev/null
+wget https://freevpn.me/FreeVPN.me-OpenVPN-Bundle.zip &> /dev/null
 unzip FreeVPN.me-OpenVPN-Bundle.zip &> /dev/null
 cd FreeVPN.me-OpenVPN-Bundle/
 ls | grep "Fr*" > dom
