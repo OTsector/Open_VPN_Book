@@ -1,5 +1,6 @@
 # Open_VPN_Book
 Connect to random VPN servers (free) automaticly...
+>  I will update soon
 # Install 
 ``` 
 sudo wget https://raw.githubusercontent.com/OdinF13/Open_VPN_Book/master/open_vpn_book.sh -O /usr/bin/openvpnbook && chmod +x /usr/bin/openvpnbook
